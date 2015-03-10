@@ -1,11 +1,11 @@
 {
 	name: 'Simple Restify App',
 	version: '0.1',
-	description: 'This is a simple Node app written using Restify',
+	description: 'This is a simple Node app written using RestifyJS',
 
 	contributors: [
 		{'name': 'Thabang Tseboho'}
-	]
+	],
 
 	dependencies: {
 		'restify': '~2.8.5',
